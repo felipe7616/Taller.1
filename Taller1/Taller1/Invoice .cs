@@ -40,8 +40,8 @@ namespace taller0101
             {
                 Console.WriteLine(p.ToString());
             }
-                return $"\n\t==============="+
-              $"\n\tValue ......: {$"{GetValueToPay():C2}",15}";
+            return $"\n\t==============="+
+       $"\n\tTotal ......: {$"{GetValueToPay():C2}",15}";
         }
 
     }
