@@ -8,7 +8,7 @@ namespace taller0101
 {
     public class FixedPriceProduct : Product
     {
-        public float Hours { get; set; }
+        
 
         public override decimal GetValueToPay()
         {
